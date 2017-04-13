@@ -12,6 +12,7 @@
   - amount invested in US dollars
   - quantity of trees purchased/planted
   - number of volunteer hours
+- Record survey measurements (e.g. DBH (inches), spread (feet)) and post them to database hosted on AWS (Amazon Web Services)
 
 # Dependencies for local development
 
