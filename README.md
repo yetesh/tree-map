@@ -34,6 +34,10 @@ $ npm install
 $ ionic serve
 ```
 
+# Zenhub
+
+To keep track of Github issues, feel free to install [Zenhub](https://www.zenhub.com/) and surf through them in a kanban board format.
+
 # Contribution
 
   Developers, designers, volunteers, citizen scientists are welcome -- let's tackle the California drought together and nurture life that will provide us with a fighting chance to breathe and to inhabit planet Earth in our future years.
